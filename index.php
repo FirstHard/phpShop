@@ -6,8 +6,8 @@ session_start();
 define('ROOT', dirname(__FILE__));
 define('HOME', $_SERVER['HTTP_HOST'] . $_SERVER["REQUEST_URI"]);
 function coreClassLoader($classname) {
-	$filename = ROOT . '/app/core/' . $classname .".php";
-	include_once($filename);
+  $filename = ROOT . '/app/core/' . $classname .".php";
+  include_once($filename);
 }
 spl_autoload_register('coreClassLoader');
 

@@ -1,5 +1,5 @@
 <?php
 
-	class ModelProduct extends Product {
-		
-	}
+    class ModelProduct extends Product {
+
+    }

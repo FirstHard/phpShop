@@ -1,5 +1,5 @@
 <?php
 
-	class ModelCategory extends Category {
-		
-	}
+    class ModelCategory extends Category {
+
+    }
