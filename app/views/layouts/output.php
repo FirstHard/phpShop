@@ -13,7 +13,7 @@
         <div class="row">
           <?php
             $main_class = 'col-12';
-            if ($asaid_content) {
+            if (isset($asaid_content)) {
               $main_class = 'col-12 col-lg-9';
           ?>
           <div class="col-12 col-lg-3">
