@@ -17,9 +17,9 @@
               <p class="text-center text-muted">Developed by <a href="https://buinoff.tk" target="_blank" rel="noopener noreferrer">Vladimir Buinoff</a> on the <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">Bootstrap Framework</a> in 2021.</p>
               <p class="text-center">
                 <a href="https://jigsaw.w3.org/css-validator/check/referer" target="_blank" rel="noopener noreferrer">
-                    <img style="border:0;width:88px;height:31px"
-                        src="https://jigsaw.w3.org/css-validator/images/vcss"
-                        alt="Правильный CSS!" />
+                  <img style="border:0;width:88px;height:31px"
+                    src="https://jigsaw.w3.org/css-validator/images/vcss"
+                    alt="Правильный CSS!" />
                 </a>
               </p>
             </div>
