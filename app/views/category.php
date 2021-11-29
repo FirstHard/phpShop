@@ -24,8 +24,6 @@
                 <?php
                   foreach ($products as $item) {
                     $quantity = $this->getQuantity($item['product_id']);
-                    /* $quantity = $find_quantity['quantity'];
-                    $quantity = in_array($item['product_id'], array_column($this->quantities, 'quantity')); */
                     $button_class = 'default';
                     $button_text = 'Купить';
                 ?>
